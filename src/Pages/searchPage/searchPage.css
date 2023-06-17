@@ -1,0 +1,17 @@
+.searchPage {
+  position: relative;
+}
+
+.searchPage .back {
+  position: absolute;
+  font-size: larger;
+  margin-top: -3rem;
+  right: 9rem;
+  color: black;
+  cursor: pointer;
+}
+
+.searchPage .books {
+  display: flex;
+  margin-top: 5rem;
+}

@@ -1,0 +1,8 @@
+.books {
+  display: flex;
+  margin-bottom: 15rem;
+}
+
+li {
+  list-style: none;
+}

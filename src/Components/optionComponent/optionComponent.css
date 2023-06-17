@@ -1,0 +1,18 @@
+.optionMenuParent {
+  position: relative;
+}
+
+.optionsMenu {
+  width: 7rem;
+  height: 10rem;
+  border: 1px solid;
+  padding-left: 5px;
+  position: absolute;
+  margin-top: 9rem;
+  margin-left: 4rem;
+  background-color: aliceblue;
+}
+
+.optionsMenu p {
+  cursor: pointer;
+}
